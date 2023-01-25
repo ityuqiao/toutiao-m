@@ -1,7 +1,6 @@
 <template>
     <div id="app">
-        <p>哈哈</p>
-        <router-view />
+        <router-view></router-view>
     </div>
 </template>
 
@@ -15,7 +14,5 @@ export default {
 </script>
 
 <style scoped>
-    p{
-        font-size: 20px;
-    }
+
 </style>
